@@ -9,3 +9,4 @@ Hi there! I'm Parham, a passionate software developer and computer science enthu
   - Building a chatting app. 
 
 When I’m not coding, I’m probably learning something new about technology or customizing my dev environment. Always happy to collaborate or connect!  
+**My Email:** parham.qasemi.2009@gmail.com
