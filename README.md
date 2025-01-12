@@ -6,7 +6,8 @@ Hi there! I'm Parham, a passionate software developer and computer science enthu
 - 💻 **Technologies:** React, MongoDB, Prisma, Next js, tailwind and more.  
 - 🎓 **Goal:** Currently researching universities to pursue a degree in computer science.  
 - 🚀 **Current Projects:**  
-  - Building a chatting app. 
+  - Building a chatting app.
+  - Working on my protfolio website
 
 When I’m not coding, I’m probably learning something new about technology or customizing my dev environment. Always happy to collaborate or connect!  
 **My Email:** parham.qasemi.2009@gmail.com
